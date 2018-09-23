@@ -1,0 +1,32 @@
+.row{   
+
+    background-color:black;
+    color:crimson;
+    font-size:20px;
+    font-family:comicsans;
+}
+h1{
+    color:gold;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;
+}
+div{
+    display:flex;
+    justify-content:space-around;
+}
+body{
+background:purple;    
+}
